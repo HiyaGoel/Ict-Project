@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Sedgwick+Ave&display=swap');
+
+h1{
+    font-family: 'Sedgwick Ave', cursive;
+    color:navy;
+}
+
+body{
+    background-color:lightskyblue;
+}
+
+font{
+    font-family: 'Lobster', cursive;
+    color:navy;
+}
+
+a{
+    font-family: 'Lobster', cursive;
+    color:navy;
+}
